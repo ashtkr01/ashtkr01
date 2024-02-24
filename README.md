@@ -57,7 +57,7 @@
 
 <p align="left">
 	<a href="https://leetcode.com/ashtkr/" target="_blank">
-		<img src="https://media.glassdoor.com/sqll/1763822/leetcode-squarelogo-1524799041565.png" alt="c" width="40" height="40"/>
+		<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="c" width="40" height="40"/>
 	</a>
 	<a href="https://auth.geeksforgeeks.org/user/ashtkr" target="_blank">
 		<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3-300x300.png" width="40" height="40"/>
